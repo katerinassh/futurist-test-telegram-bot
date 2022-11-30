@@ -37,7 +37,9 @@ function showResult(ctx, score) {
     ctx.reply(message, Markup.inlineKeyboard(keyboard).resize())
     
     const username = ctx.update.callback_query.from.username
-    bot.telegram.sendMessage(process.env.RESPONSE_CHAT_ID, `Test was passed by @${username} with result ${score}`)
+    const resp = `Test was passed by @${username} with result ${score}`
+    bot.telegram.sendMessage(process.env.RESPONSE_CHAT_ID, resp)
+    bot.telegram.sendMessage(process.env.RESPONSE_SCHOOL_CHAT_ID, resp)
 }
 
 async function showQuestion(ctx, file) {
