@@ -1,0 +1,244 @@
+{
+  "questions": [
+      {
+        "question": "Anna _ not a student. She is a teacher.",
+        "o1": "Are",
+        "o2": "Is",
+        "o3": "Am",
+        "o4": "Do",
+        "answer": "o2"
+      },
+      {
+        "question": "We are here! Look at _.",
+        "o1": "Here",
+        "o2": "Us",
+        "o3": "We",
+        "o4": "Me",
+        "answer": "o2"
+      },
+      {
+        "question": "I am eating _ sandwich. _ is very tasty.",
+        "o1": "A, it",
+        "o2": "An, he",
+        "o3": "An, it",
+        "o4": "The, he",
+        "answer": "o3"
+      },
+      {
+        "question": "What _ Nastya _ now?",
+        "o1": "Does, do",
+        "o2": "Can, doing",
+        "o3": "Is, doing",
+        "o4": "Are, doing",
+        "answer": "o3"
+      },
+      {
+        "question": "_ Anna play the saxophone? – No, she can`t.",
+        "o1": "Do",
+        "o2": "Am",
+        "o3": "Is",
+        "o4": "Can",
+        "answer": "o4"
+      },
+      {
+        "question": "There _ a teddy bear and two pillows on the bed.",
+        "o1": "Are",
+        "o2": "Is",
+        "o3": "Am",
+        "o4": "Has",
+        "answer": "o2"
+      },
+      {
+        "question": "He seldom _ (to run) in the morning.",
+        "o1": "Runs",
+        "o2": "Ran",
+        "o3": "Run",
+        "o4": "Is running",
+        "answer": "o1"
+      },
+      {
+        "question": "_ you like to go out to an Italian restaurant tonight?",
+        "o1": "Did",
+        "o2": "Are",
+        "o3": "Do",
+        "o4": "Would",
+        "answer": "o4"
+      },
+      {
+        "question": "Why _ you cry yesterday?",
+        "o1": "Will",
+        "o2": "Were",
+        "o3": "Do",
+        "o4": "Did",
+        "answer": "o4"
+      },
+      {
+        "question": "I _ (to visit) Futurist School soon.",
+        "o1": "Am visiting",
+        "o2": "Will visit",
+        "o3": "Visited",
+        "o4": "Visit",
+        "answer": "o2"
+      },
+      {
+        "question": "She _ (to be going to) buy a new car next month.",
+        "o1": "Is going to",
+        "o2": "Can going to",
+        "o3": "Are going to",
+        "o4": "Will be going to",
+        "answer": "o1"
+      },
+      {
+        "question": "He _ (to be) here yesterday, but _ (not talk) to me.",
+        "o1": "Was, didn’t talk",
+        "o2": "Was, not talked",
+        "o3": "Were, didn’t talk",
+        "o4": "Were, didn’t talked",
+        "answer": "o1"
+      },
+      {
+        "question": "If you _ hurry up, we will _ our train.",
+        "o1": "-, miss",
+        "o2": "won’t, catch",
+        "o3": "don’t, miss",
+        "o4": "can’t, lose",
+        "answer": "o3"
+      },
+      {
+        "question": "_ you ever been to Ukraine?",
+        "o1": "have got",
+        "o2": "will",
+        "o3": "did",
+        "o4": "have",
+        "answer": "o4"
+      },
+      {
+        "question": "I have worked in Warsaw, since I _ (to move) to this city.",
+        "o1": "Moved",
+        "o2": "Move",
+        "o3": "Will move",
+        "o4": "Have moved",
+        "answer": "o1"
+      },
+      {
+        "question": "You are driving too _ . Can you drive _ ?",
+        "o1": "Fast, slowest",
+        "o2": "Fastly, slowly",
+        "o3": "Faster, slower",
+        "o4": "Fast, slower",
+        "answer": "o4"
+      },
+      {
+        "question": "He doesn’t mind _ (to eat out) with us, but would prefer _ (to stay) at home.",
+        "o1": "Eat, to stay",
+        "o2": "To eat, staying",
+        "o3": "Eating, to stay",
+        "o4": "Eating, stay",
+        "answer": "o3"
+      },
+      {
+        "question": "Don’t call me tomorrow at 8. I will _ (to drive) at that time.",
+        "o1": "Driving",
+        "o2": "Will drive",
+        "o3": "Be driving",
+        "o4": "Was driving",
+        "answer": "o3"
+      },
+      {
+        "question": "When I entered the room, the guests _ (to laugh) loudly.",
+        "o1": "Have laughed",
+        "o2": "Laughed",
+        "o3": "Were laughing",
+        "o4": "Had been laughing",
+        "answer": "o3"
+      },
+      {
+        "question": "Who _ (to water) flowers every day?",
+        "o1": "Do water",
+        "o2": "Waters",
+        "o3": "Does water",
+        "o4": "Water",
+        "answer": "o2"
+      },
+      {
+        "question": "You _ (should, to drive) carefully.",
+        "o1": "Should drove",
+        "o2": "Should to drive",
+        "o3": "Should drive",
+        "o4": "Should be drive",
+        "answer": "o3"
+      },
+      {
+        "question": "The room _ decorated next week.",
+        "o1": "Is going to",
+        "o2": "Was",
+        "o3": "Is",
+        "o4": "Will be",
+        "answer": "o4"
+      },
+      {
+        "question": "His little daughter _ (to teach) to read now.",
+        "o1": "Is being taught",
+        "o2": "Is teaching",
+        "o3": "Is taught",
+        "o4": "Teaches",
+        "answer": "o1"
+      },
+      {
+        "question": "She has _ (to do) her English homework since 5 p.m.",
+        "o1": "Done",
+        "o2": "Been doing",
+        "o3": "Doing",
+        "o4": "To do",
+        "answer": "o2"
+      },
+      {
+        "question": "Now they live in Kyiv, but they _ (live) in this beautiful place when they were young.",
+        "o1": "Are used to",
+        "o2": "Used to live",
+        "o3": "Had lived",
+        "o4": "Were living",
+        "answer": "o2"
+      },
+      {
+        "question": "Neither Anna nor Nastya _ (to want) to work together.",
+        "o1": "Wanted",
+        "o2": "Don’t want",
+        "o3": "Is wanting",
+        "o4": "Didn’t want",
+        "answer": "o1"
+      },
+      {
+        "question": "If I _ (to be) a millionaire, I _ (to donate) all money.",
+        "o1": "Were, donated",
+        "o2": "Was, would donate",
+        "o3": "Were, would donate",
+        "o4": "Were, will donate",
+        "answer": "o3"
+      },
+      {
+        "question": "When it comes to _ (to invite) me to go out, he is always shy.",
+        "o1": "Be invited",
+        "o2": "To invite",
+        "o3": "Inviting",
+        "o4": "Invite",
+        "answer": "o3"
+      },
+      {
+        "question": "It`s about time we _ (to fire) him.",
+        "o1": "Will fire",
+        "o2": "To fire",
+        "o3": "Firing",
+        "o4": "Fired",
+        "answer": "o4"
+      },
+      {
+        "question": "You _ start coming on time if you want to keep your job.",
+        "o1": "Should better",
+        "o2": "Had better",
+        "o3": "Have better",
+        "o4": "Would rather",
+        "answer": "o2"
+      }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "questions": [
+      {
+        "question": "Jak się ………? Słyszałem, że dostałeś swoją pierwszą pracę?",
+        "o1": "widzisz",
+        "o2": "żadna odpowiedź nie jest prawdziwa",
+        "o3": "majesz",
+        "o4": "słyszysz",
+        "answer": "o2"
+      },
+      {
+        "question": "Jutro idę do ……………, chcesz ze mną?",
+        "o1": "muzeju narodowego",
+        "o2": "muzeum narodowego",
+        "o3": "żadna odpowiedź nie jest prawdziwa",
+        "o4": "muzea narodowego",
+        "answer": "o2"
+      },
+      {
+        "question": "Nie widzę twoich ……………., pokaż się, proszę.",
+        "o1": "oczu",
+        "o2": "oczy",
+        "o3": "żadna odpowiedź nie jest prawdziwa",
+        "o4": "oczej",
+        "answer": "o1"
+      },
+      {
+        "question": "- Co tutaj robisz? - Czekam na .......... i ........ .",
+        "o1": "siostrę; tata",
+        "o2": "tatę; siostrę",
+        "o3": "tatę; siostrę",
+        "o4": "żadna odpowiedź nie jest prawdziwa",
+        "answer": "o2"
+      },
+      {
+        "question": "............. grypy to gorączka, dreszcze, bóle głowy i inne.",
+        "o1": "Ukazy",
+        "o2": "Objawy",
+        "o3": "Symptomaty",
+        "answer": "o2"
+      },
+      {
+        "question": "Dywan to jest coś, co ........................ .",
+        "o1": "stoi na ścianie",
+        "o2": "żadna odpowiedź nie jest prawdziwa",
+        "o3": "stoi w pokoju",
+        "answer": "o1"
+      },
+      {
+        "question": "Ej! Chłopaki, już ................ swój pokój?",
+        "o1": "posprzątaliście",
+        "o2": "posprzątaliśwy",
+        "o3": "wysprzątałyśmy",
+        "o4": "żadna odpowiedź nie jest prawdziwa",
+        "answer": "o1"
+      },
+      {
+        "question": "Jasiu, co my z tobą................ na obiad? Na co masz ochotę?",
+        "o1": "będziemy jadły",
+        "o2": "będziemy jeli",
+        "o3": "będziemy jedli",
+        "o4": "żadna odpowiedź nie jest prawdziwa",
+        "answer": "o3"
+      },
+      {
+        "question": "- Co robi Maria? - Maria ........ obiad.",
+        "o1": "jeść",
+        "o2": "jem",
+        "o3": "jest",
+        "o4": "żadna odpowiedź nie jest prawdziwa",
+        "answer": "o4"
+      },
+      {
+        "question": "Kiedy zdejmujemy kurtkę w bibliotece, zostawiamy ją w ........... .",
+        "o1": "garderobie",
+        "o2": "szatni",
+        "o3": "żadna odpowiedź nie jest prawdziwa",
+        "o4": "przedpokoju",
+        "answer": "o2"
+      },
+      {
+        "question": "Moja siostra na razie nie pracuje, bo ma małe dziecko i zajmuje się domem. To znaczy, że .... .",
+        "o1": "jest na urlopie macierzyńskim",
+        "o2": "nie może znaleźć pracy",
+        "o3": "jest bezrobotna, bo ma dziecko",
+        "o4": "żadna odpowiedź nie jest prawdziwa",
+        "answer": "o1"
+      },
+      {
+        "question": "Oni zawsze będą moimi ................, znam to na pewno.",
+        "o1": "przyjaciółkami",
+        "o2": "przyjaciółmi",
+        "o3": "żadna odpowiedź nie jest prawdziwa",
+        "o4": "przyjacielami",
+        "answer": "o2"
+      },
+      {
+        "question": "Moje nowe żelazko się zepsulo, powinienem napisać .......... do producenta.",
+        "o1": "żałobę",
+        "o2": "skargę",
+        "o3": "reklamację",
+        "o4": "żadna odpowiedź nie jest prawdziwa",
+        "answer": "o3"
+      },
+      {
+        "question": "Gdybyśmy zobaczyli to na własne oczy, ............... .",
+        "o1": "uwierzyłybymy",
+        "o2": "żadna odpowiedź nie jest prawdziwa",
+        "o3": "uwierzylibymy",
+        "o4": "uwierzyliśmy by",
+        "answer": "o2"
+      },
+      {
+        "question": "Kasia przeprowadziła się do nowego mieszkania, w piątek idziemy do niej na ........... .",
+        "o1": "parapetówkę",
+        "o2": "żadna odpowiedź nie jest prawdziwa",
+        "o3": "domówkę",
+        "o4": "przeprowadzkę",
+        "answer": "o1"
+      },
+      {
+        "question": "Proszę wybrać zdanie, napisane poprawnie.",
+        "o1": "Ci mężczyźni mają psów i kotów.",
+        "o2": "Ci mężczyźni mają psy i koty.",
+        "o3": "Te mężczyzny mają psy i koty.",
+        "o4": "Te mężczyźny mają psów i kotów.",
+        "answer": "o2"
+      },
+      {
+        "question": "Kasiu, proszę, ............. mi herbaty i ............. jeszcze jedną kołdrę, tak źle się czuję.",
+        "o1": "zrobi, przyniesie",
+        "o2": "zrób, przynieś",
+        "o3": "żadna odpowiedź nie jest prawdziwa",
+        "o4": "zrob, przyniesy",
+        "answer": "o2"
+      },
+      {
+        "question": "- Co ........... robisz w weekendy? - Odpoczywam. Lubię po prostu być w domu.",
+        "o1": "najczęstszy",
+        "o2": "żadna odpowiedź nie jest prawdziwa",
+        "o3": "najczęściej",
+        "o4": "najbardziej częściej",
+        "answer": "o3"
+      },
+      {
+        "question": "Kto z nas jest ........ (dobry), ja czy ona?",
+        "o1": "dobrzejszy",
+        "o2": "żadna odpowiedź nie jest prawdziwa",
+        "o3": "lepiej",
+        "o4": "lepszy",
+        "answer": "o4"
+      },
+      {
+        "question": "Ona protestowała przeciw ............ , ale niestety nie udało się nikogo przekonać.",
+        "o1": "temu postanowieniu",
+        "o2": "żadna odpowiedź nie jest prawdziwa",
+        "o3": "tego postanowienia",
+        "o4": "tym postanowieniem",
+        "answer": "o1"
+      },
+      {
+        "question": "....................... stoją na ulicy i palą.",
+        "o1": "żadna odpowiedź nie jest prawdziwa",
+        "o2": "Dwaj mężczyźni",
+        "o3": "Dwóch mężczyzn",
+        "o4": "Dwa mężczyzny",
+        "answer": "o2"
+      },
+      {
+        "question": "Do filharmonii przywieziono dzisiaj ................... nowych skrzypiec.",
+        "o1": "pięcioro",
+        "o2": "żadna odpowiedź nie jest prawdziwa",
+        "o3": "pięć",
+        "o4": "pięciu",
+        "answer": "o1"
+      },
+      {
+        "question": "Człowiek, pracą którego jest ścinanie drzew i dostarczanie drewna, to ............ .",
+        "o1": "drzeworąb",
+        "o2": "żadna odpowiedź nie jest prawdziwa",
+        "o3": "leśniczy",
+        "o4": "drwal",
+        "answer": "o4"
+      },
+      {
+        "question": "Studiuję na uniwersytecie imienia Iwana ............. we Lwowie.",
+        "o1": "żadna odpowiedź nie jest prawdziwa",
+        "o2": "Franki",
+        "o3": "Franka",
+        "o4": "Franko",
+        "answer": "o1"
+      },
+      {
+        "question": "Pani Katarzyno, Panie Robercie, czekaliśmy na ............... . Proszę wejść.",
+        "o1": "Państwa",
+        "o2": "Panów",
+        "o3": "Pań",
+        "o4": "Państwo",
+        "answer": "o1"
+      },
+      {
+        "question": "Czy znasz (Witkacy) .................. ? To jest bardzo znany artysta.",
+        "o1": "żadna odpowiedź nie jest prawdziwa",
+        "o2": "Witkaca",
+        "o3": "Witkacja",
+        "o4": "Witkacego",
+        "answer": "o4"
+      },
+      {
+        "question": "Babcia: Proszę cię, zamknij okno, jest tutaj zimno - wszyscy się przeziębimy.\nAnka:Nie .................., jest mi gorąco.\nBartek: To co w końcu mam zrobić?",
+        "o1": "zamknij okno",
+        "o2": "zamykaj okna",
+        "o3": "zamykaj okno",
+        "answer": "o2"
+      },
+      {
+        "question": "Ile masz ............... ? Wystarczy ci na dzisiaj?",
+        "o1": "żadna odpowiedź nie jest prawdziwa",
+        "o2": "pieniędzy",
+        "o3": "pieniądzów",
+        "o4": "pieniądze",
+        "answer": "o2"
+      },
+      {
+        "question": "Nie widzieliście tutaj ............. dzieci? Bawiły się w chowanego.",
+        "o1": "pięciorga",
+        "o2": "pięciu",
+        "o3": "pięcioro",
+        "o4": "żadna odpowiedź nie jest prawdziwa",
+        "answer": "o1"
+      },
+      {
+        "question": "Idiom 'niebo w gębie' znaczy ............. .",
+        "o1": "'jestem szczęśliwy'",
+        "o2": "żadna odpowiedź nie jest prawdziwa",
+        "o3": "'wyjątkowo smaczne'",
+        "o4": "'jest zła pogoda'",
+        "answer": "o3"
+      }
+  ]
+}
