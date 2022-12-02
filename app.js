@@ -60,7 +60,6 @@ async function start(ctx) {
         [Markup.button.callback('Іспанська', 'esp')]
     ]
 
-    i = 0
     ctx.reply(`\nВітаємо в мовній онлайн-школі Futurist School 👩‍💻 Цей бот створений для того, аби визначити твій рівень мови.\n\nОрієнтовна тривалість тесту: 10-15 хвилин [30 питань].\n\nБудь ласка, обери мову, яка тебе цікавить 🤍\n
     `, Markup.inlineKeyboard(langKeyboard).resize());
 }
@@ -69,19 +68,18 @@ bot.start(async (ctx) => await start(ctx))
 bot.action('start', async(ctx) => await start(ctx))
 
 bot.action(['eng', 'pl', 'esp'], async (ctx) => {
+    i = 0
     score = 0
     file = langToQuestionsMap[ctx.update.callback_query.data]
     await showQuestion(ctx, file)
 })
 
 bot.action(['o1', 'o2', 'o3', 'o4', 'o5'], async (ctx) => {
-    upgradeScore(engQuestions.questions[i], ctx.update.callback_query.data)
+    upgradeScore(file.questions[i], ctx.update.callback_query.data)
     i++
 
-    if (i === engQuestions.questions.length) showResult(ctx, score)
-    else {
-        await showQuestion(ctx, file)
-    }
+    if (i === file.questions.length ) showResult(ctx, score)
+    else await showQuestion(ctx, file)
 })
 
 bot.launch()
