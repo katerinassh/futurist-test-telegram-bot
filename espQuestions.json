@@ -141,13 +141,13 @@
         "answer": "o3"
       },
       {
-        "question": "Busque el equivalente ucraniano de la palabra subrayada:\nDesde el día de nuestra partida de  Madrid pasaron 2 años.",
+        "question": "Busque el equivalente ucraniano de la palabra entre paréntesis:\nDesde el día de nuestra (partida) de Madrid pasaron 2 años.",
         "o1": "прибуття",
         "o2": "повернення",
         "o3": "зустрічі",
         "o4": "знайомства",
         "o5": "від`їзду",
-        "answer": "o5"
+        "answer": "o1"
       },
       {
         "question": "Las ventanas de mi dormitorio dan al parque.",
