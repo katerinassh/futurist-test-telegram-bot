@@ -141,7 +141,7 @@
         "answer": "o3"
       },
       {
-        "question": "Busque el equivalente ucraniano de la palabra entre paréntesis:\Desde el día de nuestra (partida) de Madrid pasaron 2 años.",
+        "question": "Busque el equivalente ucraniano de la palabra entre paréntesis:\nDesde el día de nuestra (partida) de Madrid pasaron 2 años.",
         "o1": "прибуття",
         "o2": "повернення",
         "o3": "зустрічі",
