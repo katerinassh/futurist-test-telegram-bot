@@ -1,4 +1,4 @@
-{
+﻿{
   "questions": [
       {
         "question": "Nos han dicho que (…)",
@@ -19,13 +19,13 @@
         "o1": "al sentarse  a la mesa.",
         "o2": "decirme su nombre y apellido.",
         "o3": "plan tenemos para hoy.",
-        "answer": "o1"
+        "answer": "o2"
       },
       {
         "question": "Nosotros ya hemos (…)",
         "o1": "cuentos e historias.",
         "o2": "saldríamos al concierto de J.Iglesias.",
-        "o3": "estado 5 veces en rancia.",
+        "o3": "estado 5 veces en Francia.",
         "answer": "o3"
       },
       {
@@ -124,14 +124,14 @@
         "o1": "el",
         "o2": "a el",
         "o3": "al",
-        "answer": "o1"
+        "answer": "o3"
       },
       {
         "question": "Tú también tienes que (...) por tu futuro.",
         "o1": "preocuparse",
         "o2": "ocupar",
         "o3": "preocuparte",
-        "answer": "o1"
+        "answer": "o3"
       },
       {
         "question": "Ellos se pusieron sus abrigos y yo me puse (…)",
@@ -141,16 +141,16 @@
         "answer": "o3"
       },
       {
-        "question": "Busque el equivalente ucraniano de la palabra entre paréntesis:\nDesde el día de nuestra (partida) de Madrid pasaron 2 años.",
+        "question": "Busque el equivalente ucraniano de la palabra entre paréntesis:\Desde el día de nuestra (partida) de Madrid pasaron 2 años.",
         "o1": "прибуття",
         "o2": "повернення",
         "o3": "зустрічі",
         "o4": "знайомства",
         "o5": "від`їзду",
-        "answer": "o1"
+        "answer": "o5"
       },
       {
-        "question": "Las ventanas de mi dormitorio dan al parque.",
+        "question": "Las ventanas de mi (dormitorio) dan al parque.",
         "o1": "спальня",
         "o2": "салон",
         "o3": "коридор",
@@ -159,7 +159,7 @@
         "answer": "o1"
       },
       {
-        "question": "Hoy Alberto ha venido a la fiesta con su novia.",
+        "question": "Hoy Alberto ha venido a la fiesta con su (novia).",
         "o1": "наречена",
         "o2": "дівчина",
         "o3": "дружина",
@@ -168,7 +168,7 @@
         "answer": "o1"
       },
       {
-        "question": "Felipe está de acuerdo con su hermano.",
+        "question": "Felipe (está de acuerdo) con su hermano.",
         "o1": "підтримує",
         "o2": "розраджує",
         "o3": "цінує",
@@ -177,7 +177,7 @@
         "answer": "o4"
       },
       {
-        "question": "En aquella reunión  nadie se portaba bien.",
+        "question": "En aquella (reunión)  nadie se portaba bien.",
         "o1": "зібрання",
         "o2": "зустріч",
         "o3": "мітинг",
@@ -186,7 +186,7 @@
         "answer": "o2"
       },
       {
-        "question": "No salgas sin paraguas, va a  llover.",
+        "question": "No salgas sin (paraguas), va a  llover.",
         "o1": "плащ",
         "o2": "накидка",
         "o3": "куртка",
@@ -195,7 +195,7 @@
         "answer": "o5"
       },
       {
-        "question": "El camamrero nos ha traído las tapas.",
+        "question": "El (camarero) nos ha traído las tapas.",
         "o1": "бутерброди",
         "o2": "закуска",
         "o3": "фрукти",
@@ -204,7 +204,7 @@
         "answer": "o2"
       },
       {
-        "question": "Te agradezco tu ayuda,  me has apoyado mucho.",
+        "question": "Te (agradezco) tu ayuda,  me has apoyado mucho.",
         "o1": "ціную",
         "o2": "поважаю",
         "o3": "відмовляюсь",
@@ -213,7 +213,7 @@
         "answer": "o5"
       },
       {
-        "question": "El cartero nos ha dicho que vendrá mañana.",
+        "question": "El (cartero) nos ha dicho que vendrá mañana.",
         "o1": "адвокат",
         "o2": "листоноша",
         "o3": "кур`єр",
