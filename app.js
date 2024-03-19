@@ -49,7 +49,6 @@ async function showQuestion(ctx, file) {
             keyboard.push([Markup.button.callback(file.questions[i][property], property)])
     }
 
-    if (i !== 0) await ctx.deleteMessage()
     ctx.reply(file.questions[i].question, Markup.inlineKeyboard(keyboard).resize())
 }
 
