@@ -1,0 +1,244 @@
+﻿{
+  "questions": [
+    {
+      "question": "… ihr gern?",
+      "o1": "Fotografiert",
+      "o2": "Fotografierst",
+      "o3": "Fotografiere",
+      "o4": "Fotografieren",
+      "answer": "o1"
+    },
+    {
+      "question": "…Frühstück esse ich Brot mit Marmelade.",
+      "o1": "Zum",
+      "o2": "Bei",
+      "o3": "Am",
+      "o4": "Im",
+      "answer": "o3"
+    },
+    {
+      "question": "Gefällt … dieser Pullover?",
+      "o1": "du",
+      "o2": "dir",
+      "o3": "dein",
+      "o4": "dich",
+      "answer": "o2"
+    },
+    {
+      "question": "Suchst du den Stift? – Ja, ich suche ….",
+      "o1": "ihn",
+      "o2": "es",
+      "o3": "er",
+      "o4": "ihm",
+      "answer": "o1"
+    },
+    {
+      "question": "Wir fliegen … eine Woche in die Berge.",
+      "o1": "für",
+      "o2": "vor",
+      "o3": "in",
+      "o4": "ab",
+      "answer": "o1"
+    },
+    {
+      "question": "… bitte den Tee!",
+      "o1": "Trink!",
+      "o2": "Trinken!",
+      "o3": "Trinkst!",
+      "o4": "Trank!",
+      "answer": "o1"
+    },
+    {
+      "question": "Andreas … für seine Freundin Blumen ….",
+      "o1": "habt … gekauft",
+      "o2": "hat … gekauft",
+      "o3": "ist … gekauft",
+      "o4": "sein … gekaufen",
+      "answer": "o2"
+    },
+    {
+      "question": "Ihre Bücher liegen noch …. Schreibtisch.",
+      "o1": "auf die",
+      "o2": "auf dem",
+      "o3": "bei der",
+      "o4": "über der",
+      "answer": "o2"
+    },
+    {
+      "question": "Auf dem Schild steht „Rauchen verboten“. Hier … man nicht rauchen.",
+      "o1": "darf",
+      "o2": "muss",
+      "o3": "kann",
+      "o4": "braucht",
+      "answer": "o1"
+    },
+    {
+      "question": "Susanne arbeitet jeden Tag von 9 Uhr bis 13 Uhr.",
+      "o1": "Sie arbeitet Vollzeit.",
+      "o2": "Sie arbeitet halbtags.",
+      "o3": "Sie muss früh aufstehen.",
+      "o4": "Sie ist nicht versichert.",
+      "answer": "o2"
+    },
+    {
+      "question": "Martin braucht Hilfe, ... es heute viel Arbeit gibt.",
+      "o1": "denn",
+      "o2": "und",
+      "o3": "weil",
+      "o4": "deshalb",
+      "answer": "o3"
+    },
+    {
+      "question": "Kennst du …, der mir bei der Wohnungssuche helfen kann?",
+      "o1": "etwas",
+      "o2": "was",
+      "o3": "jemanden",
+      "o4": "ihn",
+      "answer": "o3"
+    },
+    {
+      "question": "Lydia findet … … Pullover sehr schön.",
+      "o1": "der blaue",
+      "o2": "den blauen",
+      "o3": "den blaue",
+      "o4": "die blaue",
+      "answer": "o2"
+    },
+    {
+      "question": "Die Kinder freuen sich … die nächsten Ferien.",
+      "o1": "für",
+      "o2": "auf",
+      "o3": "an",
+      "o4": "über",
+      "answer": "o2"
+    },
+    {
+      "question": "Hat der Kellner … schon das Essen gebracht?",
+      "o1": "euer",
+      "o2": "ich",
+      "o3": "ihr",
+      "o4": "euch",
+      "answer": "o4"
+    },
+    {
+      "question": "Wer rund um die Uhr verfügbar ist, ….",
+      "o1": "muss halbtags arbeiten",
+      "o2": "muss 12 Stunden schlafen",
+      "o3": "muss 24 Stunden arbeiten",
+      "o4": "muss den ganzen Tag schlafen",
+      "answer": "o3"
+    },
+    {
+      "question": "… es regnet, gehe ich zu Fuß.",
+      "o1": "Wie",
+      "o2": "Obwohl",
+      "o3": "Denn",
+      "o4": "Trotzdem",
+      "answer": "o2"
+    },
+    {
+      "question": "Vor einer Bewerbung sollte man möglichst viel über die Firma …. ",
+      "o1": "checken",
+      "o2": "bilden",
+      "o3": "schreiben",
+      "o4": "herausfinden",
+      "answer": "o4"
+    },
+    {
+      "question": "Andre ist jetzt in Deutschland. Er möchte hier leben. Seinen Wohnsitz kann er … anmelden.",
+      "o1": "beim Bürgermeister",
+      "o2": "auf dem Einwohnermeldeamt",
+      "o3": "beim Vermieter",
+      "o4": "im Gesundheitsamt",
+      "answer": "o2"
+    },
+    {
+      "question": "Bei einem Unfall mit Personenschaden ruft man ….",
+      "o1": "einen Rettungswagen",
+      "o2": "eine Notabteilung",
+      "o3": "einen Nothelfer",
+      "o4": "eine helfende Hand",
+      "answer": "o1"
+    },
+    {
+      "question": "Im Obst stecken viele….",
+      "o1": "Nadeln",
+      "o2": "Keime",
+      "o3": "Erscheinungen",
+      "o4": "Nährstoffe",
+      "answer": "o4"
+    },
+    {
+      "question": "Das Auto … von einem Mechaniker ….",
+      "o1": "repariert … ist",
+      "o2": "hat … repariert",
+      "o3": "wird … repariert",
+      "o4": "kann … reparieren",
+      "answer": "o3"
+    },
+    {
+      "question": "... älter man wird, … mehr Erfahrung hat man.",
+      "o1": "Je … desto",
+      "o2": "Denn … je",
+      "o3": "Wenn … denn",
+      "o4": "Um … je",
+      "answer": "o1"
+    },
+    {
+      "question": "Um diese Arbeit ausführen zu können, sollten Sie über gewisse Kenntnisse ….",
+      "o1": "verfügen",
+      "o2": "annehmen",
+      "o3": "haben",
+      "o4": "ausbauen",
+      "answer": "o1"
+    },
+    {
+      "question": "… man regelmäßig trainiert, verbessert man seine Kondition.",
+      "o1": "Indem",
+      "o2": "Durch",
+      "o3": "Somit",
+      "o4": "Dadurch",
+      "answer": "o1"
+    },
+    {
+      "question": "Karin, wenn du die richtige Entscheidung treffen möchtest, musst du die Pros und Kontras ….",
+      "o1": "gegenseitig stellen",
+      "o2": "gegeneinanderstellen",
+      "o3": "entgegenstellen",
+      "o4": "gegenüberstellen",
+      "answer": "o4"
+    },
+    {
+      "question": "Kommst du am Freitag zur Party? – Ja, sicher komme ich, … unser Kind wird krank.",
+      "o1": "außer, dass",
+      "o2": "es sei denn,",
+      "o3": "es sei denn, dass",
+      "o4": "außer wenn",
+      "answer": "o2"
+    },
+    {
+      "question": "Schau mal den grünen Stein da. – Ja, sehr schön. … ist er jedoch türkis.",
+      "o1": "Eng gefasst",
+      "o2": "Streng genommen",
+      "o3": "Grob geschätzt",
+      "o4": "Genauer betrachtet",
+      "answer": "o4"
+    },
+    {
+      "question": "Wäre der Täter der Polizei bekannt gewesen, ….",
+      "o1": "hätte er gefasst werden können",
+      "o2": "wäre er gefasst werden können",
+      "o3": "sollte er gefasst gewesen sein",
+      "o4": "muss er gefasst worden sein",
+      "answer": "o1"
+    },
+    {
+      "question": "Paula ist erst drei Jahre alt: Um sich anzuziehen ist sie noch ….",
+      "o1": "von Hilfe überzeugt",
+      "o2": "auf Hilfe gespannt",
+      "o3": "um Hilfe bemüht",
+      "o4": "auf Hilfe angewiesen",
+      "answer": "o4"
+    }
+  ]
+}

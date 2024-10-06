@@ -3,6 +3,7 @@ require('dotenv').config()
 const engQuestions = require('./engQuestions.json')
 const plQuestions = require('./plQuestions.json')
 const espQuestions = require('./espQuestions.json')
+const deutQuestions = require('./deutQuestions.json')
  
 const bot = new Telegraf(process.env.BOT_TOKEN)
 
@@ -10,7 +11,8 @@ let i, score, file
 const langToQuestionsMap = {
     eng: engQuestions,
     pl: plQuestions,
-    esp: espQuestions
+    esp: espQuestions,
+    deut: deutQuestions
 }
 
 function upgradeScore(question, chosenOption) {
@@ -57,7 +59,8 @@ async function start(ctx) {
     const langKeyboard = [
         [Markup.button.callback('Англійська', 'eng')],
         [Markup.button.callback('Польська', 'pl')],
-        [Markup.button.callback('Іспанська', 'esp')]
+        [Markup.button.callback('Іспанська', 'esp')],
+        [Markup.button.callback('Німецька', 'deut')]
     ]
 
     ctx.reply(`\nВітаємо в мовній онлайн-школі Futurist School 👩‍💻 Цей бот створений для того, аби визначити твій рівень мови.\n\nОрієнтовна тривалість тесту: 10-15 хвилин [30 питань].\n\nБудь ласка, обери мову, яка тебе цікавить 🤍\n
@@ -67,7 +70,7 @@ async function start(ctx) {
 bot.start(async (ctx) => await start(ctx))
 bot.action('start', async(ctx) => await start(ctx))
 
-bot.action(['eng', 'pl', 'esp'], async (ctx) => {
+bot.action(['eng', 'pl', 'esp', 'deut'], async (ctx) => {
     i = 0
     score = 0
     file = langToQuestionsMap[ctx.update.callback_query.data]
