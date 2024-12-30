@@ -1,7 +1,7 @@
 ﻿{
   "questions": [
     {
-      "question": "… ihr gern?",
+      "question": "1/30 … ihr gern?",
       "o1": "Fotografiert",
       "o2": "Fotografierst",
       "o3": "Fotografiere",
@@ -9,7 +9,7 @@
       "answer": "o1"
     },
     {
-      "question": "…Frühstück esse ich Brot mit Marmelade.",
+      "question": "2/30 …Frühstück esse ich Brot mit Marmelade.",
       "o1": "Zum",
       "o2": "Bei",
       "o3": "Am",
@@ -17,7 +17,7 @@
       "answer": "o3"
     },
     {
-      "question": "Gefällt … dieser Pullover?",
+      "question": "3/30 Gefällt … dieser Pullover?",
       "o1": "du",
       "o2": "dir",
       "o3": "dein",
@@ -25,7 +25,7 @@
       "answer": "o2"
     },
     {
-      "question": "Suchst du den Stift? – Ja, ich suche ….",
+      "question": "4/30 Suchst du den Stift? – Ja, ich suche ….",
       "o1": "ihn",
       "o2": "es",
       "o3": "er",
@@ -33,7 +33,7 @@
       "answer": "o1"
     },
     {
-      "question": "Wir fliegen … eine Woche in die Berge.",
+      "question": "5/30 Wir fliegen … eine Woche in die Berge.",
       "o1": "für",
       "o2": "vor",
       "o3": "in",
@@ -41,7 +41,7 @@
       "answer": "o1"
     },
     {
-      "question": "… bitte den Tee!",
+      "question": "6/30 … bitte den Tee!",
       "o1": "Trink!",
       "o2": "Trinken!",
       "o3": "Trinkst!",
@@ -49,7 +49,7 @@
       "answer": "o1"
     },
     {
-      "question": "Andreas … für seine Freundin Blumen ….",
+      "question": "7/30 Andreas … für seine Freundin Blumen ….",
       "o1": "habt … gekauft",
       "o2": "hat … gekauft",
       "o3": "ist … gekauft",
@@ -57,7 +57,7 @@
       "answer": "o2"
     },
     {
-      "question": "Ihre Bücher liegen noch …. Schreibtisch.",
+      "question": "8/30 Ihre Bücher liegen noch …. Schreibtisch.",
       "o1": "auf die",
       "o2": "auf dem",
       "o3": "bei der",
@@ -65,7 +65,7 @@
       "answer": "o2"
     },
     {
-      "question": "Auf dem Schild steht „Rauchen verboten“. Hier … man nicht rauchen.",
+      "question": "9/30 Auf dem Schild steht „Rauchen verboten“. Hier … man nicht rauchen.",
       "o1": "darf",
       "o2": "muss",
       "o3": "kann",
@@ -73,7 +73,7 @@
       "answer": "o1"
     },
     {
-      "question": "Susanne arbeitet jeden Tag von 9 Uhr bis 13 Uhr.",
+      "question": "10/30 Susanne arbeitet jeden Tag von 9 Uhr bis 13 Uhr.",
       "o1": "Sie arbeitet Vollzeit.",
       "o2": "Sie arbeitet halbtags.",
       "o3": "Sie muss früh aufstehen.",
@@ -81,7 +81,7 @@
       "answer": "o2"
     },
     {
-      "question": "Martin braucht Hilfe, ... es heute viel Arbeit gibt.",
+      "question": "11/30 Martin braucht Hilfe, ... es heute viel Arbeit gibt.",
       "o1": "denn",
       "o2": "und",
       "o3": "weil",
@@ -89,7 +89,7 @@
       "answer": "o3"
     },
     {
-      "question": "Kennst du …, der mir bei der Wohnungssuche helfen kann?",
+      "question": "12/30 Kennst du …, der mir bei der Wohnungssuche helfen kann?",
       "o1": "etwas",
       "o2": "was",
       "o3": "jemanden",
@@ -97,7 +97,7 @@
       "answer": "o3"
     },
     {
-      "question": "Lydia findet … … Pullover sehr schön.",
+      "question": "13/30 Lydia findet … … Pullover sehr schön.",
       "o1": "der blaue",
       "o2": "den blauen",
       "o3": "den blaue",
@@ -105,7 +105,7 @@
       "answer": "o2"
     },
     {
-      "question": "Die Kinder freuen sich … die nächsten Ferien.",
+      "question": "14/30 Die Kinder freuen sich … die nächsten Ferien.",
       "o1": "für",
       "o2": "auf",
       "o3": "an",
@@ -113,7 +113,7 @@
       "answer": "o2"
     },
     {
-      "question": "Hat der Kellner … schon das Essen gebracht?",
+      "question": "15/30 Hat der Kellner … schon das Essen gebracht?",
       "o1": "euer",
       "o2": "ich",
       "o3": "ihr",
@@ -121,7 +121,7 @@
       "answer": "o4"
     },
     {
-      "question": "Wer rund um die Uhr verfügbar ist, ….",
+      "question": "16/30 Wer rund um die Uhr verfügbar ist, ….",
       "o1": "muss halbtags arbeiten",
       "o2": "muss 12 Stunden schlafen",
       "o3": "muss 24 Stunden arbeiten",
@@ -129,7 +129,7 @@
       "answer": "o3"
     },
     {
-      "question": "… es regnet, gehe ich zu Fuß.",
+      "question": "17/30 … es regnet, gehe ich zu Fuß.",
       "o1": "Wie",
       "o2": "Obwohl",
       "o3": "Denn",
@@ -137,7 +137,7 @@
       "answer": "o2"
     },
     {
-      "question": "Vor einer Bewerbung sollte man möglichst viel über die Firma …. ",
+      "question": "18/30 Vor einer Bewerbung sollte man möglichst viel über die Firma ….",
       "o1": "checken",
       "o2": "bilden",
       "o3": "schreiben",
@@ -145,7 +145,7 @@
       "answer": "o4"
     },
     {
-      "question": "Andre ist jetzt in Deutschland. Er möchte hier leben. Seinen Wohnsitz kann er … anmelden.",
+      "question": "19/30 Andre ist jetzt in Deutschland. Er möchte hier leben. Seinen Wohnsitz kann er … anmelden.",
       "o1": "beim Bürgermeister",
       "o2": "auf dem Einwohnermeldeamt",
       "o3": "beim Vermieter",
@@ -153,7 +153,7 @@
       "answer": "o2"
     },
     {
-      "question": "Bei einem Unfall mit Personenschaden ruft man ….",
+      "question": "20/30 Bei einem Unfall mit Personenschaden ruft man ….",
       "o1": "einen Rettungswagen",
       "o2": "eine Notabteilung",
       "o3": "einen Nothelfer",
@@ -161,7 +161,7 @@
       "answer": "o1"
     },
     {
-      "question": "Im Obst stecken viele….",
+      "question": "21/30 Im Obst stecken viele….",
       "o1": "Nadeln",
       "o2": "Keime",
       "o3": "Erscheinungen",
@@ -169,7 +169,7 @@
       "answer": "o4"
     },
     {
-      "question": "Das Auto … von einem Mechaniker ….",
+      "question": "22/30 Das Auto … von einem Mechaniker ….",
       "o1": "repariert … ist",
       "o2": "hat … repariert",
       "o3": "wird … repariert",
@@ -177,7 +177,7 @@
       "answer": "o3"
     },
     {
-      "question": "... älter man wird, … mehr Erfahrung hat man.",
+      "question": "23/30 ... älter man wird, … mehr Erfahrung hat man.",
       "o1": "Je … desto",
       "o2": "Denn … je",
       "o3": "Wenn … denn",
@@ -185,7 +185,7 @@
       "answer": "o1"
     },
     {
-      "question": "Um diese Arbeit ausführen zu können, sollten Sie über gewisse Kenntnisse ….",
+      "question": "24/30 Um diese Arbeit ausführen zu können, sollten Sie über gewisse Kenntnisse ….",
       "o1": "verfügen",
       "o2": "annehmen",
       "o3": "haben",
@@ -193,7 +193,7 @@
       "answer": "o1"
     },
     {
-      "question": "… man regelmäßig trainiert, verbessert man seine Kondition.",
+      "question": "25/30 … man regelmäßig trainiert, verbessert man seine Kondition.",
       "o1": "Indem",
       "o2": "Durch",
       "o3": "Somit",
@@ -201,7 +201,7 @@
       "answer": "o1"
     },
     {
-      "question": "Karin, wenn du die richtige Entscheidung treffen möchtest, musst du die Pros und Kontras ….",
+      "question": "26/30 Karin, wenn du die richtige Entscheidung treffen möchtest, musst du die Pros und Kontras ….",
       "o1": "gegenseitig stellen",
       "o2": "gegeneinanderstellen",
       "o3": "entgegenstellen",
@@ -209,7 +209,7 @@
       "answer": "o4"
     },
     {
-      "question": "Kommst du am Freitag zur Party? – Ja, sicher komme ich, … unser Kind wird krank.",
+      "question": "27/30 Kommst du am Freitag zur Party? – Ja, sicher komme ich, … unser Kind wird krank.",
       "o1": "außer, dass",
       "o2": "es sei denn,",
       "o3": "es sei denn, dass",
@@ -217,7 +217,7 @@
       "answer": "o2"
     },
     {
-      "question": "Schau mal den grünen Stein da. – Ja, sehr schön. … ist er jedoch türkis.",
+      "question": "28/30 Schau mal den grünen Stein da. – Ja, sehr schön. … ist er jedoch türkis.",
       "o1": "Eng gefasst",
       "o2": "Streng genommen",
       "o3": "Grob geschätzt",
@@ -225,7 +225,7 @@
       "answer": "o4"
     },
     {
-      "question": "Wäre der Täter der Polizei bekannt gewesen, ….",
+      "question": "29/30 Wäre der Täter der Polizei bekannt gewesen, ….",
       "o1": "hätte er gefasst werden können",
       "o2": "wäre er gefasst werden können",
       "o3": "sollte er gefasst gewesen sein",
@@ -233,7 +233,7 @@
       "answer": "o1"
     },
     {
-      "question": "Paula ist erst drei Jahre alt: Um sich anzuziehen ist sie noch ….",
+      "question": "30/30 Paula ist erst drei Jahre alt: Um sich anzuziehen ist sie noch ….",
       "o1": "von Hilfe überzeugt",
       "o2": "auf Hilfe gespannt",
       "o3": "um Hilfe bemüht",

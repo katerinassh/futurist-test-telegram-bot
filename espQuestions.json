@@ -1,233 +1,233 @@
 ﻿{
   "questions": [
-      {
-        "question": "Nos han dicho que (…)",
-        "o1": "quieren venir este fin de semana.",
-        "o2": "el cine del centro.",
-        "o3": "leer la revista de ayer.",
-        "answer": "o1"
-      },
-      {
-        "question": "Madrid es una ciudad preciosa pero (…)",
-        "o1": "hay mucho trabajo en el campo.",
-        "o2": "muy pequeña.",
-        "o3": "de muchos contrastes.",
-        "answer": "o3"
-      },
-      {
-        "question": "Haga el favor de (…)",
-        "o1": "al sentarse  a la mesa.",
-        "o2": "decirme su nombre y apellido.",
-        "o3": "plan tenemos para hoy.",
-        "answer": "o2"
-      },
-      {
-        "question": "Nosotros ya hemos (…)",
-        "o1": "cuentos e historias.",
-        "o2": "saldríamos al concierto de J.Iglesias.",
-        "o3": "estado 5 veces en Francia.",
-        "answer": "o3"
-      },
-      {
-        "question": "El museo está (…)",
-        "o1": "en la esquina de la calle Fuentes.",
-        "o2": "del arte contemporáneo",
-        "o3": "pequeña hacha.",
-        "answer": "o1"
-      },
-      {
-        "question": "Si te duele la cabeza, (…)",
-        "o1": "duermo siete horas.",
-        "o2": "toma una aspirina y ya está.",
-        "o3": "seguimos con las mismas ideas.",
-        "answer": "o2"
-      },
-      {
-        "question": "La imagen de España es la de (…)",
-        "o1": "un sol y un cielo azul.",
-        "o2": "las lluvias frecuentes y poco calor.",
-        "o3": "famosa cerveza.",
-        "answer": "o1"
-      },
-      {
-        "question": "No entiendo a Jaime, (…)",
-        "o1": "no tengo suficiente dinero.",
-        "o2": "Noria está enamorada.",
-        "o3": "porque no habla claramente.",
-        "answer": "o3"
-      },
-      {
-        "question": "Muchas personas conducen mal (…)",
-        "o1": "y tenemos atascos continuamente.",
-        "o2": "la información es totalmente falsa.",
-        "o3": "estas pastillas actúan contra la gripe.",
-        "answer": "o1"
-      },
-      {
-        "question": "Nunca rompe nada (…)",
-        "o1": "porque usa las cosas cuidadosamente.",
-        "o2": "porque hace mucho frío y llueve.",
-        "o3": "te cuento una historia divertida.",
-        "answer": "o1"
-      },
-      {
-        "question": "Este hotel  (…) muy moderno.",
-        "o1": "esta",
-        "o2": "es",
-        "o3": "lleva",
-        "answer": "o2"
-      },
-      {
-        "question": "Ayer una larga caravana de coches (…) de la ciudad.",
-        "o1": "salió",
-        "o2": "ha salido",
-        "o3": "llegaba",
-        "answer": "o1"
-      },
-      {
-        "question": "Ayudo a los que necesitan (…) ayuda.",
-        "o1": "mía",
-        "o2": "tú",
-        "o3": "mi",
-        "answer": "o3"
-      },
-      {
-        "question": "Oscar y Mati se visten (…) lindo.",
-        "o1": "muy",
-        "o2": "mucho",
-        "o3": "como",
-        "answer": "o1"
-      },
-      {
-        "question": "Dicen que (…) el mejor equipo del país.",
-        "o1": "esta",
-        "o2": "es",
-        "o3": "se encuentra",
-        "answer": "o2"
-      },
-      {
-        "question": "Aunque su padre es bastante viejo, sigue (...)",
-        "o1": "currar",
-        "o2": "trabajando",
-        "o3": "a trabajar",
-        "answer": "o2"
-      },
-      {
-        "question": "Todas las revistas (…) debajo de la mesa.",
-        "o1": "son",
-        "o2": "hay",
-        "o3": "están",
-        "answer": "o3"
-      },
-      {
-        "question": "Así no se juega (...) tenis.",
-        "o1": "el",
-        "o2": "a el",
-        "o3": "al",
-        "answer": "o3"
-      },
-      {
-        "question": "Tú también tienes que (...) por tu futuro.",
-        "o1": "preocuparse",
-        "o2": "ocupar",
-        "o3": "preocuparte",
-        "answer": "o3"
-      },
-      {
-        "question": "Ellos se pusieron sus abrigos y yo me puse (…)",
-        "o1": "tu",
-        "o2": "tuyo",
-        "o3": "el tuyo",
-        "answer": "o3"
-      },
-      {
-        "question": "Busque el equivalente ucraniano de la palabra entre paréntesis:\nDesde el día de nuestra (partida) de Madrid pasaron 2 años.",
-        "o1": "прибуття",
-        "o2": "повернення",
-        "o3": "зустрічі",
-        "o4": "знайомства",
-        "o5": "від`їзду",
-        "answer": "o5"
-      },
-      {
-        "question": "Las ventanas de mi (dormitorio) dan al parque.",
-        "o1": "спальня",
-        "o2": "салон",
-        "o3": "коридор",
-        "o4": "кімната",
-        "o5": "квартира",
-        "answer": "o1"
-      },
-      {
-        "question": "Hoy Alberto ha venido a la fiesta con su (novia).",
-        "o1": "наречена",
-        "o2": "дівчина",
-        "o3": "дружина",
-        "o4": "вдова",
-        "o5": "сестра",
-        "answer": "o1"
-      },
-      {
-        "question": "Felipe (está de acuerdo) con su hermano.",
-        "o1": "підтримує",
-        "o2": "розраджує",
-        "o3": "цінує",
-        "o4": "погоджується",
-        "o5": "суперечить",
-        "answer": "o4"
-      },
-      {
-        "question": "En aquella (reunión)  nadie se portaba bien.",
-        "o1": "зібрання",
-        "o2": "зустріч",
-        "o3": "мітинг",
-        "o4": "страйк",
-        "o5": "повернення",
-        "answer": "o2"
-      },
-      {
-        "question": "No salgas sin (paraguas), va a  llover.",
-        "o1": "плащ",
-        "o2": "накидка",
-        "o3": "куртка",
-        "o4": "пальто",
-        "o5": "парасоля",
-        "answer": "o5"
-      },
-      {
-        "question": "El (camarero) nos ha traído las tapas.",
-        "o1": "бутерброди",
-        "o2": "офіціант",
-        "o3": "фрукти",
-        "o4": "десерт",
-        "o5": "орішки",
-        "answer": "o2"
-      },
-      {
-        "question": "Te (agradezco) tu ayuda,  me has apoyado mucho.",
-        "o1": "ціную",
-        "o2": "поважаю",
-        "o3": "відмовляюсь",
-        "o4": "приймаю",
-        "o5": "дякую",
-        "answer": "o5"
-      },
-      {
-        "question": "El (cartero) nos ha dicho que vendrá mañana.",
-        "o1": "адвокат",
-        "o2": "листоноша",
-        "o3": "кур`єр",
-        "o4": "асистент",
-        "o5": "продавець",
-        "answer": "o2"
-      },
-      {
-        "question": "¡ Loli, el niño se ha puesto _ pie.",
-        "o1": "En",
-        "o2": "Con",
-        "o3": "De",
-        "o4": "Cerca",
-        "answer": "o3"
-      }
+    {
+      "question": "1/30 Nos han dicho que (…) ",
+      "o1": "quieren venir este fin de semana.",
+      "o2": "el cine del centro.",
+      "o3": "leer la revista de ayer.",
+      "answer": "o1"
+    },
+    {
+      "question": "2/30 Madrid es una ciudad preciosa pero (…) ",
+      "o1": "hay mucho trabajo en el campo.",
+      "o2": "muy pequeña.",
+      "o3": "de muchos contrastes.",
+      "answer": "o3"
+    },
+    {
+      "question": "3/30 Haga el favor de (…) ",
+      "o1": "al sentarse a la mesa.",
+      "o2": "decirme su nombre y apellido.",
+      "o3": "plan tenemos para hoy.",
+      "answer": "o2"
+    },
+    {
+      "question": "4/30 Nosotros ya hemos (…) ",
+      "o1": "cuentos e historias.",
+      "o2": "saldríamos al concierto de J.Iglesias.",
+      "o3": "estado 5 veces en Francia.",
+      "answer": "o3"
+    },
+    {
+      "question": "5/30 El museo está (…) ",
+      "o1": "en la esquina de la calle Fuentes.",
+      "o2": "del arte contemporáneo",
+      "o3": "pequeña hacha.",
+      "answer": "o1"
+    },
+    {
+      "question": "6/30 Si te duele la cabeza, (…) ",
+      "o1": "duermo siete horas.",
+      "o2": "toma una aspirina y ya está.",
+      "o3": "seguimos con las mismas ideas.",
+      "answer": "o2"
+    },
+    {
+      "question": "7/30 La imagen de España es la de (…) ",
+      "o1": "un sol y un cielo azul.",
+      "o2": "las lluvias frecuentes y poco calor.",
+      "o3": "famosa cerveza.",
+      "answer": "o1"
+    },
+    {
+      "question": "8/30 No entiendo a Jaime, (…) ",
+      "o1": "no tengo suficiente dinero.",
+      "o2": "Noria está enamorada.",
+      "o3": "porque no habla claramente.",
+      "answer": "o3"
+    },
+    {
+      "question": "9/30 Muchas personas conducen mal (…) ",
+      "o1": "y tenemos atascos continuamente.",
+      "o2": "la información es totalmente falsa.",
+      "o3": "estas pastillas actúan contra la gripe.",
+      "answer": "o1"
+    },
+    {
+      "question": "10/30 Nunca rompe nada (…) ",
+      "o1": "porque usa las cosas cuidadosamente.",
+      "o2": "porque hace mucho frío y llueve.",
+      "o3": "te cuento una historia divertida.",
+      "answer": "o1"
+    },
+    {
+      "question": "11/30 Este hotel (…) muy moderno.",
+      "o1": "esta",
+      "o2": "es",
+      "o3": "lleva",
+      "answer": "o2"
+    },
+    {
+      "question": "12/30 Ayer una larga caravana de coches (…) de la ciudad.",
+      "o1": "salió",
+      "o2": "ha salido",
+      "o3": "llegaba",
+      "answer": "o1"
+    },
+    {
+      "question": "13/30 Ayudo a los que necesitan (…) ayuda.",
+      "o1": "mía",
+      "o2": "tú",
+      "o3": "mi",
+      "answer": "o3"
+    },
+    {
+      "question": "14/30 Oscar y Mati se visten (…) lindo.",
+      "o1": "muy",
+      "o2": "mucho",
+      "o3": "como",
+      "answer": "o1"
+    },
+    {
+      "question": "15/30 Dicen que (…) el mejor equipo del país.",
+      "o1": "esta",
+      "o2": "es",
+      "o3": "se encuentra",
+      "answer": "o2"
+    },
+    {
+      "question": "16/30 Aunque su padre es bastante viejo, sigue (…) ",
+      "o1": "currar",
+      "o2": "trabajando",
+      "o3": "a trabajar",
+      "answer": "o2"
+    },
+    {
+      "question": "17/30 Todas las revistas (…) debajo de la mesa.",
+      "o1": "son",
+      "o2": "hay",
+      "o3": "están",
+      "answer": "o3"
+    },
+    {
+      "question": "18/30 Así no se juega (…) tenis.",
+      "o1": "el",
+      "o2": "a el",
+      "o3": "al",
+      "answer": "o3"
+    },
+    {
+      "question": "19/30 Tú también tienes que (…) por tu futuro.",
+      "o1": "preocuparse",
+      "o2": "ocupar",
+      "o3": "preocuparte",
+      "answer": "o3"
+    },
+    {
+      "question": "20/30 Ellos se pusieron sus abrigos y yo me puse (…) ",
+      "o1": "tu",
+      "o2": "tuyo",
+      "o3": "el tuyo",
+      "answer": "o3"
+    },
+    {
+      "question": "21/30 Busque el equivalente ucraniano de la palabra entre paréntesis: Desde el día de nuestra (partida) de Madrid pasaron 2 años.",
+      "o1": "прибуття",
+      "o2": "повернення",
+      "o3": "зустрічі",
+      "o4": "знайомства",
+      "o5": "від`їзду",
+      "answer": "o5"
+    },
+    {
+      "question": "22/30 Las ventanas de mi (dormitorio) dan al parque.",
+      "o1": "спальня",
+      "o2": "салон",
+      "o3": "коридор",
+      "o4": "кімната",
+      "o5": "квартира",
+      "answer": "o1"
+    },
+    {
+      "question": "23/30 Hoy Alberto ha venido a la fiesta con su (novia).",
+      "o1": "наречена",
+      "o2": "дівчина",
+      "o3": "дружина",
+      "o4": "вдова",
+      "o5": "сестра",
+      "answer": "o1"
+    },
+    {
+      "question": "24/30 Felipe (está de acuerdo) con su hermano.",
+      "o1": "підтримує",
+      "o2": "розраджує",
+      "o3": "цінує",
+      "o4": "погоджується",
+      "o5": "суперечить",
+      "answer": "o4"
+    },
+    {
+      "question": "25/30 En aquella (reunión) nadie se portaba bien.",
+      "o1": "зібрання",
+      "o2": "зустріч",
+      "o3": "мітинг",
+      "o4": "страйк",
+      "o5": "повернення",
+      "answer": "o2"
+    },
+    {
+      "question": "26/30 No salgas sin (paraguas), va a llover.",
+      "o1": "плащ",
+      "o2": "накидка",
+      "o3": "куртка",
+      "o4": "пальто",
+      "o5": "парасоля",
+      "answer": "o5"
+    },
+    {
+      "question": "27/30 El (camarero) nos ha traído las tapas.",
+      "o1": "бутерброди",
+      "o2": "офіціант",
+      "o3": "фрукти",
+      "o4": "десерт",
+      "o5": "орішки",
+      "answer": "o2"
+    },
+    {
+      "question": "28/30 Te (agradezco) tu ayuda, me has apoyado mucho.",
+      "o1": "ціную",
+      "o2": "поважаю",
+      "o3": "відмовляюсь",
+      "o4": "приймаю",
+      "o5": "дякую",
+      "answer": "o5"
+    },
+    {
+      "question": "29/30 El (cartero) nos ha dicho que vendrá mañana.",
+      "o1": "адвокат",
+      "o2": "листоноша",
+      "o3": "кур`єр",
+      "o4": "асистент",
+      "o5": "продавець",
+      "answer": "o2"
+    },
+    {
+      "question": "30/30 ¡ Loli, el niño se ha puesto _ pie.",
+      "o1": "En",
+      "o2": "Con",
+      "o3": "De",
+      "o4": "Cerca",
+      "answer": "o3"
+    }
   ]
 }
